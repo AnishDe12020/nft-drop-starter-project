@@ -1,0 +1,19 @@
+{
+  "name": "Mercedes Benz Mayback S Class",
+  "symbol": "CR",
+  "image": "2.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "2.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "8Dyk53RrtmN3MshQxxWdfTRco9sQJzUHSqkUg8chbe88",
+        "share": 100
+      }
+    ]
+  }
+}
